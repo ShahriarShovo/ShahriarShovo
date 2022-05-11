@@ -8,6 +8,7 @@
 <br>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahriarshovo&label=Profile%20views&color=0e75b6&style=flat" alt="shahriarshovo" /> </p>
+<br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahriarshovo" alt="shahriarshovo" /></a> </p>
 
